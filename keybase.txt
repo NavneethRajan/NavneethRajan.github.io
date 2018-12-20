@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nav_nav
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://navneethrajan.github.io
+  * I am nav_nav (https://keybase.io/nav_nav) on keybase.
+  * I have a public key ASB-XC1hrRSDKkEByG2dGCwlnXeOLtMs8E6peEKvIJxAwwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207e5c2d61ad14832a4101c86d9d182c259d778e2ed32cf04ea97842af209c40c30a",
+      "host": "keybase.io",
+      "kid": "01207e5c2d61ad14832a4101c86d9d182c259d778e2ed32cf04ea97842af209c40c30a",
+      "uid": "b0586bbebdb19858db16380aca98af19",
+      "username": "nav_nav"
+    },
+    "merkle_root": {
+      "ctime": 1545336185,
+      "hash": "e1bbf3b7203cf925233e4dd5b0b9f64e880485a6b572497af7746b882c6c434a2504f1afd2dc96cd27968f379a87935a964fbc97cfc8a080be12806a3e5a1629",
+      "hash_meta": "a2de777b3e5557dceabb8c3a31446ea439bd8d4b78df3e71858bcdcec2f326a8",
+      "seqno": 4176921
+    },
+    "service": {
+      "entropy": "+HWYm6QnVR+OehEl8T2uT3G6",
+      "hostname": "navneethrajan.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.2"
+  },
+  "ctime": 1545336219,
+  "expire_in": 504576000,
+  "prev": "9626c3d3a1f00a84809cd4eeb7efffb0925f3cdb1c1c72bda711ece642fc0f92",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgflwtYa0UgypBAchtnRgsJZ13ji7TLPBOqXhCryCcQMMKp3BheWxvYWTESpcCCsQglibD06HwCoSAnNTut+//sJJfPNscHHK9pxHs5kL8D5LEIK/02PNqybOkRkNa8iWAUjviBcnqfmdYo2Bg0gUyZ1BqAgHCo3NpZ8RAKPTUfsezjfMbRYKLBrOFWiZIDJrGHBYkND1ftTr0yiwRIAkQfkOTGUiWilS3WVKL139EG7nFEB5DxweBPA7GDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMkTg9dtEwSBxuVe8gYwuKxymmbYyqcUcpfOfh7nvMyCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nav_nav
+
+==================================================================
