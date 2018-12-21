@@ -1,6 +1,7 @@
 body{
   background-image: url(01.png);
   background-size: cover;
+  background-attachment: fixed;
 }
 
 #infoSquare{
