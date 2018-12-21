@@ -1,0 +1,14 @@
+body{
+  background-image: url(01.png);
+  background-size: cover;
+}
+
+#infoSquare{
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+
+h3{
+  text-align: center;
+  max-width: 100%;
+}
