@@ -13,10 +13,13 @@ p{
   max-height: 90%
 }
 
-body{
+body {
   background-image: url(01.png);
+  min-height: 100vh;/* fill up the screen*/
+  padding-bottom:1em;/* make some space at the bottom, a bit of makeup */
+  box-sizing:border-box;/* include the padding into min-height calculation */
+  background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
 }
 
 .jumbotron{
