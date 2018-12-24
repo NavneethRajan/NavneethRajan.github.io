@@ -13,14 +13,25 @@ p{
   max-height: 90%
 }
 
-body{
+body {
   background-image: url(01.png);
+  min-height: 100vh;/* fill up the screen*/
+  padding-bottom:1em;/* make some space at the bottom, a bit of makeup */
+  box-sizing:border-box;/* include the padding into min-height calculation */
+  background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
 }
 
 .jumbotron{
   margin-top: 5%;
   margin-bottom: 5%;
   box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#navEntry{
+  color: white;
+}
+
+.navbar{
+  background-color: transparent;
 }
