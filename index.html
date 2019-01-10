@@ -20,7 +20,7 @@
         <ul class="uk-navbar-nav">
           <li class="uk-visible@m uk-animation-fade"><a href="projects.html">My Projects</a></li>
           <li class="uk-visible@m uk-animation-fade"><a href="contact.html">Contact Me</a></li>
-          <li><a class="uk-navbar-toggle uk-hidden@m uk-animation-fade" data-uk-toggle data-uk-navbar-toggle-icon href="#offcanvas-nav" title="Offcanvas"></a></li>
+          <button class="uk-button uk-margin-small-right uk-hidden@m uk-animation-fade" type="button" uk-icon="icon: menu" uk-toggle="target: #offcanvas-usage"></button>
         </ul>
       </div>
       <div class="uk-navbar-right">
@@ -29,5 +29,21 @@
         </ul>
       </div>
     </nav>
+    <div id="offcanvas-usage" uk-offcanvas>
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" uk-close></button>
+
+        <h3>Menu</h3>
+
+        <ul>
+          <li> <a href="projects.html">My Projects</a> </li>
+          <li> <a href="contact.html">Contact Me</a> </li>
+          <li> <a href="pubkey.txt">PubKey</a> </li>
+        </ul>
+
+    </div>
+    </div>
+</div>
   </body>
 </html>
